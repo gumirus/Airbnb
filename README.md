@@ -1,5 +1,7 @@
 # React + Vite
-
+***
+## [Макет Figma](https://www.figma.com/design/9ztmYJPvOWYacD6CbwmyQN/AirBnB-Homepage?node-id=0-1&node-type=canvas&t=QhF8HjH22EvPrgQ2-0)
+***
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
